@@ -8,5 +8,8 @@ Criamos uma segunda versão para controle de uma linha de ar hospitalar, com bas
 
 https://www.youtube.com/watch?v=NNr36bboLXE
 
+Para melhoria destas últimas versões pretendemos fazer um controle por bluetooth, para ajustar o input do aparelho.
+A saída digital do arduíno precisa ser amplificada para o acionamento das eletroválvulas. As opções são usos de shields do próprio arduíno ou transistores. No último caso é importante pensar em colocar elementos redundantes em paralelo para diminuir o risco de falhas.
+
 Em todo caso, os requisitos médicos devem ser observados para um projeto final seguro.
 
